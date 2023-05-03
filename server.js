@@ -40,5 +40,5 @@ app.get('/api/:member', (req,res) =>{
 )
 
 app.listen(PORT, (req,res) => {
-    console.log(`Listening on port ${PORT}`)
+    console.log(`Listenin' on port ${PORT}`)
 })
